@@ -1,4 +1,4 @@
-# LegendOfSilverpeak
+# Legend Of Silverpeak
 This is the code repository for Legend of Silverpeak, a game for the Atari 7800.
 
 Legend of Silverpeak is an expansive Role playing game, and is still a work in progress.
